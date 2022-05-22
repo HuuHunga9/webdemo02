@@ -1,0 +1,730 @@
+    #text-box-1618947323 {
+        width: 60%;
+    }
+    
+    #text-box-1618947323 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-1618947323 {
+            width: 60%;
+        }
+    }
+    
+    #banner-1489924850 {
+        padding-top: 50%;
+    }
+    
+    #banner-1489924850 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2022/04/cover-website.jpg);
+        background-size: cover;
+    }
+    
+    #banner-1489924850 .bg {
+        background-position: 50% 50%;
+    }
+    
+    @media (min-width:550px) {
+        #banner-1489924850 {
+            padding-top: 650px;
+        }
+    }
+    
+    #text-box-1094787017 {
+        width: 60%;
+    }
+    
+    #text-box-1094787017 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-1094787017 {
+            width: 60%;
+        }
+    }
+    
+    #banner-792355189 {
+        padding-top: 50%;
+    }
+    
+    #banner-792355189 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/09/background-nha-khoa2.jpg);
+        background-size: cover;
+    }
+    
+    #banner-792355189 .bg {
+        background-position: 48% 61%;
+    }
+    
+    @media (min-width:550px) {
+        #banner-792355189 {
+            padding-top: 650px;
+        }
+    }
+    
+    #text-box-1301469390 {
+        width: 60%;
+    }
+    
+    #text-box-1301469390 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-1301469390 {
+            width: 60%;
+        }
+    }
+    
+    #banner-273726480 {
+        padding-top: 50%;
+    }
+    
+    #banner-273726480 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/09/background-nha-khoa4.jpg);
+        background-size: cover;
+    }
+    
+    #banner-273726480 .bg {
+        background-position: 53% 30%;
+    }
+    
+    @media (min-width:550px) {
+        #banner-273726480 {
+            padding-top: 650px;
+        }
+    }
+    
+    #image_1867448804 {
+        width: 95%;
+    }
+    
+    #section_2137175060 {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    
+    #section_2137175060 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/bgnew.png);
+        background-size: cover;
+    }
+    
+    #section_1947073976 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_1947073976 .section-bg-overlay {
+        background-color: rgba(0, 0, 0, .5);
+    }
+    
+    #section_1947073976 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/website.jpg);
+    }
+    
+    #section_1947073976 .section-bg {
+        background-position: 59% 57%;
+    }
+    
+    #image_55950110 {
+        width: 65%;
+    }
+    
+    #section_976102800 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #image_2136417847 {
+        width: 100%;
+    }
+    
+    #image_176114229 {
+        width: 100%;
+    }
+    
+    #image_1696506104 {
+        width: 100%;
+    }
+    
+    #image_1873071579 {
+        width: 100%;
+    }
+    
+    #image_1202370996 {
+        width: 100%;
+    }
+    
+    #image_294550144 {
+        width: 100%;
+    }
+    
+    #section_1811215395 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_1811215395 .section-bg-overlay {
+        background-color: rgba(245, 245, 245, 0.87);
+    }
+    
+    #section_1811215395 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/bg-pattern.jpg);
+        background-size: cover;
+    }
+    
+    #image_1108730601 {
+        width: 100%;
+    }
+    
+    #image_1837541659 {
+        width: 100%;
+    }
+    
+    #image_1490652350 {
+        width: 100%;
+    }
+    
+    #image_1736433315 {
+        width: 100%;
+    }
+    
+    .fom-inner {
+        padding: 35px;
+        background: #c65857;
+        border-radius: 10px;
+    }
+    
+    .form--h3 {
+        color: #fff;
+        font-size: 30px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    
+    .form-input {
+        border-radius: 4px !important;
+    }
+    
+    .form-btn-dky {
+        background-color: #0fb9b2;
+        border-radius: 4px;
+        color: #fff;
+        font-weight: 600;
+        text-transform: uppercase;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        opacity: .8;
+    }
+    
+    .form-btn-dky:hover {
+        opacity: 1;
+    }
+    
+    .form-textarea {
+        resize: none;
+        border-radius: 4px !important;
+    }
+    
+    #section_1912144638 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_713797984 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_713797984 .section-bg-overlay {
+        background-color: rgba(240, 240, 240, 0.87);
+    }
+    
+    #section_713797984 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/bgnew.png);
+        background-size: cover;
+    }
+    
+    #section_713797984 .section-bg {
+        background-position: 0% 0%;
+    }
+    
+    #section_432538077 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #image_363036675 {
+        width: 60%;
+    }
+    
+    #image_347702530 {
+        width: 100%;
+    }
+    
+    #section_2081353315 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_2081353315 .section-bg-overlay {
+        background-color: rgba(9, 130, 125, 0.81);
+    }
+    
+    #section_2081353315 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/website.jpg);
+    }
+    
+    #section_2081353315 .section-bg {
+        background-position: 58% 26%;
+    }
+    
+    #image_742465524 {
+        width: 8%;
+        display: none;
+    }
+    
+    @media (min-width: 768px) and (max-width: 1023px) {
+        .nav-size-medium>li>a {
+            font-size: 12px;
+        }
+        #masthead .flex-col.hide-for-medium.flex-left.flex-grow {
+            margin: unset;
+        }
+    }
+    
+    .local-footer .icon-box-text.last-reset p span {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+    /* giới thiệu nha khoa */
+    
+    #text-box-1449087966 {
+        width: 60%;
+    }
+    
+    #text-box-1449087966 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-1449087966 {
+            width: 60%;
+        }
+    }
+    
+    #banner-1235156375 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/10/banner-hero2.jpg);
+        background-size: cover;
+    }
+    
+    #banner-1235156375 .bg {
+        background-position: 50% 50%;
+    }
+    
+    #text-box-612433409 {
+        width: 60%;
+    }
+    
+    #text-box-612433409 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-612433409 {
+            width: 60%;
+        }
+    }
+    
+    #banner-775774544 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/10/backgroundmobile.jpg);
+        background-size: cover;
+    }
+    
+    #banner-775774544 .bg {
+        background-position: 50% 50%;
+    }
+    
+    #image_242380441 {
+        width: 67%;
+    }
+    
+    #image_2023110851 {
+        width: 5%;
+    }
+    
+    #image_904571171 {
+        width: 5%;
+    }
+    
+    #image_1437161645 {
+        width: 5%;
+    }
+    
+    #image_1120233522 {
+        width: 5%;
+    }
+    
+    #image_1334931709 {
+        width: 5%;
+    }
+    
+    #image_337001479 {
+        width: 100%;
+    }
+    
+    #image_340993519 {
+        width: 100%;
+    }
+    
+    #image_1958108066 {
+        width: 100%;
+    }
+    
+    #section_600351016 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_600351016 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/07/ALL-NEW.png);
+        background-size: cover;
+    }
+    
+    #section_600351016 .section-bg {
+        background-position: 51% 42%;
+    }
+    
+    #text-box-1608288034 {
+        width: 60%;
+    }
+    
+    #text-box-1608288034 .text {
+        font-size: 100%;
+    }
+    
+    @media (min-width:550px) {
+        #text-box-1608288034 {
+            width: 60%;
+        }
+    }
+    
+    #banner-1348031542 .bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/07/2-20200430030529.jpg);
+        background-size: cover;
+    }
+    
+    #banner-1348031542 .bg {
+        background-position: 50% 50%;
+    }
+    
+    #image_1140168183 {
+        width: 30%;
+    }
+    
+    #image_718123106 {
+        width: 30%;
+    }
+    
+    #image_1851775330 {
+        width: 30%;
+    }
+    
+    #image_512020855 {
+        width: 30%;
+    }
+    
+    #image_1181654188 {
+        width: 30%;
+    }
+    
+    #image_811128845 {
+        width: 30%;
+    }
+    
+    #image_498733290 {
+        width: 30%;
+    }
+    
+    #image_1290986781 {
+        width: 30%;
+    }
+    
+    #section_1392850850 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        min-height: 700px;
+    }
+    
+    #section_1392850850 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/07/dich-vu-new.png);
+        background-size: cover;
+    }
+    
+    #section_1392850850 .section-bg {
+        background-position: 100% 39%;
+    }
+    
+    #image_392950991 {
+        width: 50%;
+    }
+    
+    #section_1512580402 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #image_817000805 {
+        width: 30%;
+    }
+    
+    #image_1590343906 {
+        width: 100%;
+    }
+    
+    #image_833858409 {
+        width: 30%;
+    }
+    
+    #image_393556560 {
+        width: 100%;
+    }
+    
+    #image_1149971991 {
+        width: 30%;
+    }
+    
+    #image_1846253348 {
+        width: 100%;
+    }
+    
+    #image_923715437 {
+        width: 30%;
+    }
+    
+    #image_2067248364 {
+        width: 100%;
+    }
+    
+    #section_260808602 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        min-height: 700px;
+    }
+    
+    #section_260808602 .section-bg-overlay {
+        background-color: rgba(255, 255, 255, 0.63);
+    }
+    
+    #section_260808602 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/07/bg-camket-new.jpg);
+    }
+    
+    #section_260808602 .section-bg {
+        background-position: 51% 55%;
+    }
+    
+    #image_1441051502 {
+        width: 100%;
+    }
+    
+    #image_1022707467 {
+        width: 100%;
+    }
+    
+    #image_1369948302 {
+        width: 100%;
+    }
+    
+    #image_784770155 {
+        width: 100%;
+    }
+    
+    #image_1464978809 {
+        width: 100%;
+    }
+    
+    #image_228718664 {
+        width: 100%;
+    }
+    
+    #image_1897694593 {
+        width: 100%;
+    }
+    
+    #image_1089061966 {
+        width: 100%;
+    }
+    
+    #image_443301209 {
+        width: 100%;
+    }
+    
+    #section_900274129 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        min-height: 600px;
+    }
+    
+    #section_900274129 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/07/bgkh.jpg);
+        background-size: cover;
+    }
+    
+    #section_900274129 .section-bg {
+        background-position: 47% 47%;
+    }
+    
+    #col-850622676>.col-inner {
+        margin: 50px 0px 0px 0px;
+    }
+    
+    #section_1104194096 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #section_1104194096 .section-bg-overlay {
+        background-color: rgba(9, 130, 125, 0.81);
+    }
+    
+    #section_1104194096 .section-bg.bg-loaded {
+        background-image: url(https://ranghammatsaigon.com/wp-content/uploads/2020/08/website.jpg);
+        background-size: cover;
+    }
+    
+    #section_1104194096 .section-bg {
+        background-position: 58% 26%;
+    }
+    
+    #col-610245723>.col-inner {
+        padding: 30px 30px 30px 30px;
+    }
+    
+    #row-1479015672>.col>.col-inner {
+        background-color: rgb(15, 185, 178);
+    }
+    
+    #col-1552335350>.col-inner {
+        padding: 15px 15px 15px 15px;
+    }
+    
+    #section_1680416452 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    
+    #image_1375957841 {
+        width: 100%;
+    }
+    
+    #image_1277867851 {
+        width: 100%;
+    }
+    
+    #image_1804475954 {
+        width: 100%;
+    }
+    
+    #image_1190250707 {
+        width: 100%;
+    }
+    
+    #image_1178316429 {
+        width: 100%;
+    }
+    
+    #image_1981821902 {
+        width: 100%;
+    }
+    
+    #image_1685124036 {
+        width: 100%;
+    }
+    
+    #image_1672938951 {
+        width: 100%;
+    }
+    
+    #image_1501932756 {
+        width: 100%;
+    }
+    
+    #image_1134733603 {
+        width: 100%;
+    }
+    
+    #image_1920219222 {
+        width: 100%;
+    }
+    
+    #image_1483897265 {
+        width: 100%;
+    }
+    
+    span.has-inline-color,
+    span.has-inline-color.has-vivid-red-color {
+        font-weight: 600;
+    }
+    
+    #image_761481673 {
+        width: 100%;
+    }
+    
+    #image_1232709709 {
+        width: 100%;
+    }
+    
+    .fa-angle-right {
+        font-size: 2em;
+        margin: 0 10px !important;
+        top: -1px;
+        vertical-align: middle;
+    }
+    
+    #image_1415876280 {
+        width: 100%;
+    }
+    
+    #image_920212184 {
+        width: 100%;
+    }
+    
+    #image_1354992951 {
+        width: 100%;
+    }
+    
+    #image_1424957412 {
+        width: 100%;
+    }
+    
+    #image_1381252201 {
+        width: 100%;
+    }
+    
+    #image_466429716 {
+        width: 100%;
+    }
+    
+    #image_718790726 {
+        width: 100%;
+    }
+    
+    .form-group.validate .form-input {
+        border: 1px solid red;
+    }
+    
+    .form-group.validate .form-message {
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 8px;
+        margin-top: -8px;
+        text-transform: capitalize;
+        margin-left: 4px;
+        display: block;
+    }
